@@ -4,7 +4,11 @@
     "repository_name": "TimeNest-Store",
     "repository_url": "https://github.com/ziyi127/TimeNest-Store",
     "description": "TimeNest官方插件商城，提供丰富的插件扩展功能",
-    "featured": ["weather_enhanced", "pomodoro_timer", "dark_theme"],
+    "featured": [
+        "weather_enhanced",
+        "pomodoro_timer",
+        "dark_theme"
+    ],
     "categories": [
         {
             "id": "component",
@@ -44,11 +48,15 @@
             "homepage": "https://github.com/ziyi127/TimeNest-Store/tree/main/plugins/weather_enhanced",
             "repository": "https://github.com/ziyi127/TimeNest-Store",
             "license": "MIT",
-            "tags": ["weather", "component", "utility"],
+            "tags": [
+                "weather",
+                "component",
+                "utility"
+            ],
             "downloads": 1250,
             "rating": 4.8,
-            "size": 2621440,
-            "checksum": "sha256:a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456",
+            "size": 5263,
+            "checksum": "sha256:d0966d6ccf3ff9cf65ae94758e82cc3b477b33c1540d788edb066fd9b9098d9e",
             "dependencies": [],
             "min_app_version": "1.0.0",
             "max_app_version": "",
@@ -70,11 +78,15 @@
             "homepage": "https://github.com/ziyi127/TimeNest-Store/tree/main/plugins/pomodoro_timer",
             "repository": "https://github.com/ziyi127/TimeNest-Store",
             "license": "MIT",
-            "tags": ["productivity", "timer", "focus"],
+            "tags": [
+                "productivity",
+                "timer",
+                "focus"
+            ],
             "downloads": 3420,
             "rating": 4.9,
-            "size": 1887436,
-            "checksum": "sha256:b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef1234567a",
+            "size": 6336,
+            "checksum": "sha256:bf274d9901ba0c8c9ea64d551b6b0108a1d73bf71bfba0b5154c37c722d23a4b",
             "dependencies": [],
             "min_app_version": "1.0.0",
             "max_app_version": "",
@@ -97,11 +109,15 @@
             "homepage": "https://github.com/ziyi127/TimeNest-Store/tree/main/plugins/dark_theme",
             "repository": "https://github.com/ziyi127/TimeNest-Store",
             "license": "MIT",
-            "tags": ["theme", "dark", "design"],
+            "tags": [
+                "theme",
+                "dark",
+                "design"
+            ],
             "downloads": 5680,
             "rating": 4.7,
-            "size": 3355443,
-            "checksum": "sha256:c3d4e5f6789012345678901234567890abcdef1234567890abcdef1234567ab2",
+            "size": 6583,
+            "checksum": "sha256:75233807f07fdf9a2439e235be66d1c3fcd12bef5543d1c3542969ff21287a1b",
             "dependencies": [],
             "min_app_version": "1.0.0",
             "max_app_version": "",
@@ -123,11 +139,15 @@
             "homepage": "https://github.com/ziyi127/TimeNest-Store/tree/main/plugins/calendar_sync",
             "repository": "https://github.com/ziyi127/TimeNest-Store",
             "license": "MIT",
-            "tags": ["calendar", "sync", "integration"],
+            "tags": [
+                "calendar",
+                "sync",
+                "integration"
+            ],
             "downloads": 2890,
             "rating": 4.6,
-            "size": 4294967,
-            "checksum": "sha256:d4e5f6789012345678901234567890abcdef1234567890abcdef1234567abc3",
+            "size": 7455,
+            "checksum": "sha256:d01c080f0de2fbfb8cf368327c1c8d13bf4d3d6b28321ed28a36c2d9c0b202f1",
             "dependencies": [],
             "min_app_version": "1.0.0",
             "max_app_version": "",
